@@ -1,0 +1,12 @@
+.rbc-toolbar {
+  background-color: #c20c8e; /* Change this to your desired header background color */
+  color: #fff; /* Change this to your desired text color */
+}
+
+.rbc-toolbar button {
+  color: #fff; /* Change the color of buttons in the header */
+}
+
+.rbc-toolbar .rbc-toolbar-label {
+  color: #fff; /* Change the color of the header label */
+}
